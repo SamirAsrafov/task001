@@ -1,0 +1,22 @@
+table,tr,td,th{
+    border: 1px solid red;
+    border-collapse: collapse;
+
+    }
+    th,td{
+        padding: 12px;
+}
+th {
+    background-color: rgb(99, 211, 173);
+}
+td {
+background-color: rgb(187, 127, 59);
+}
+i{
+    background-color: black;
+    color: blanchedalmond;
+}
+strong{
+    color: blanchedalmond;
+    background-color: black;
+}
